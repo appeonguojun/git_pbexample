@@ -65,7 +65,7 @@ string	ls_toolbartext
 string	ls_usercontrol
 int li_rc, li_major, li_minor, li_fixversion
 ContextInformation lcx_key
-
+soapconnection soap
 SetPointer(hourglass!)
 
 // Get the current environment for cross-platform issues
